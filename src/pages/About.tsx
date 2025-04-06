@@ -1,9 +1,9 @@
-
 import React from 'react';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
 import { Button } from "@/components/ui/button";
 import { Link } from 'react-router-dom';
+import BootstrapExample from '../components/BootstrapExample';
 
 const About = () => {
   return (
